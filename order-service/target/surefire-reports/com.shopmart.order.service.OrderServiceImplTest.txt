@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.shopmart.order.service.OrderServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.629 s -- in com.shopmart.order.service.OrderServiceImplTest
